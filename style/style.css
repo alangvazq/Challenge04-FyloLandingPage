@@ -1,0 +1,53 @@
+/* *Variables */
+
+:root {
+    /* Primary */
+
+    --fp-color: hsl(243, 87%, 12%);
+    --sp-color: hsl(238, 22%, 44%);
+
+    /* Accent */
+
+    --fa-color: hsl(224, 93%, 58%);
+    --sa-color: hsl(170, 45%, 43%);
+
+    /* Neutral */
+
+    --fn-c: hsl(240, 75%, 98%);
+    --sn-color: hsl(0, 0%, 75%);
+}
+
+
+/* *Reset styles */
+
+body {
+    /* Headings, Call-to-actions, Header Navigation
+    font-family: 'Raleway', sans-serif; */
+
+    /* Body
+    font-family: 'Open Sans', sans-serif; */
+
+    font-size: 16px;
+}
+
+/* *Bootstrap styles */
+
+
+/* *My styles */
+
+
+/* *Breakpoints */
+/* sm */
+@media (min-width: 576px) {}
+
+/* md */
+@media (min-width: 768px) {}
+
+/* lg */
+@media (min-width: 992px) {}
+
+/* xl */
+@media (min-width: 1200px) {}
+
+/* xxl */
+@media (min-width: 1400px) {}
